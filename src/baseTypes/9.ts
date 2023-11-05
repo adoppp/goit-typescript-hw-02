@@ -20,4 +20,6 @@ const page2 = {
   status: 'close',
 }
 
+const bothPages = page1 && page2;
+
 export {};
